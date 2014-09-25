@@ -1,0 +1,11 @@
+{
+  "name": "deploy_test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

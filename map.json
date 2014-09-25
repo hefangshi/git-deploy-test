@@ -1,0 +1,21 @@
+{
+    "res": {
+        "css/a.css": {
+            "uri": "/css/a.css",
+            "type": "css"
+        },
+        "css/haha/nice.js": {
+            "uri": "/css/haha/nice.js",
+            "type": "js"
+        },
+        "file.js": {
+            "uri": "/file.js",
+            "type": "js"
+        },
+        "js/a.js": {
+            "uri": "/js/a.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}
