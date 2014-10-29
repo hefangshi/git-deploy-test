@@ -1,19 +1,19 @@
 {
     "res": {
         "css/a.css": {
-            "uri": "/css/a.css",
+            "uri": "/css/a_c81e728.css",
             "type": "css"
         },
         "css/haha/nice.js": {
-            "uri": "/css/haha/nice.js",
+            "uri": "/css/haha/nice_d41d8cd.js",
             "type": "js"
         },
         "file.js": {
-            "uri": "/file.js",
+            "uri": "/file_d41d8cd.js",
             "type": "js"
         },
         "js/a.js": {
-            "uri": "/js/a.js",
+            "uri": "/js/a_c4ca423.js",
             "type": "js"
         }
     },
